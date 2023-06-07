@@ -1,3 +1,10 @@
+"""
+projekt_3.py: třetí projekt do Engeto Online Python Akademie
+author: Jaroslav Dvořák
+email: dvorak-jaroslav@email.cz
+discord: Jaroslav D
+"""
+
 import requests
 from bs4 import BeautifulSoup
 import csv
